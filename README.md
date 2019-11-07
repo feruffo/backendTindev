@@ -1,2 +1,2 @@
 # backendTindev
-Projeto feito em Node.js para estudo, baseado na rede social Tinder.
+Projeto desenvolvido em Node.js para estudo, baseado na rede social Tinder.
